@@ -13,5 +13,3 @@ The second way:
 2. Press the `~` key in the main menu, and that will open the console.
 2. Type `exec <my_config_name>` command.
 3. Press Enter to apply my config.
-
-**NOTE: In the second way you should re-install a config every time when you open the game.**
