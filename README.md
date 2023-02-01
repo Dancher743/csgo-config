@@ -13,3 +13,9 @@ The second way:
 2. Press the `~` key in the main menu, and that will open the console.
 2. Type `exec <my_config_name>` command.
 3. Press Enter to apply my config.
+
+Launch Options
+---
+```
+-tickrate 128 -threads 6 -high -novid +cl_interp 0 +cl_interp_ratio 1 +cl_updaterate 128 +cl_forcepreload 1
+```
