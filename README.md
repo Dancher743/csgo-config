@@ -17,5 +17,5 @@ The second way:
 Launch Options
 ---
 ```
--tickrate 128 -threads 6 -high -novid +cl_interp 0 +cl_interp_ratio 1 +cl_updaterate 128 +cl_forcepreload 1
+-threads 6 +fps max 0 -tickrate 128 -high -novid +cl_interp 0 +cl_interp_ratio 1 +cl_updaterate 128 cl_cmdrate 128 +cl_forcepreload 1
 ```
