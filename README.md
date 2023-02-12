@@ -19,3 +19,10 @@ Launch Options
 ```
 -threads 6 +fps max 0 -tickrate 128 -high -novid +cl_interp 0 +cl_interp_ratio 1 +cl_updaterate 128 cl_cmdrate 128 +cl_forcepreload 1
 ```
+
+To sync a monitor with FPS you may add the following options:
+
+```
+-freq <number> -refresh <number>
+```
+where `<number>` is HZ of your monitor. For example: `60`, `120`, `144`, `165` or any other.
